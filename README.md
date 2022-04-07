@@ -7,7 +7,7 @@
 
 #### Direct
 
-Links of this type place the `URL` close to their declaration.
+Links of this type place the `URL` close to their declaration.
 
 <br>
 
