@@ -199,6 +199,7 @@ you should with a separators width.
 ***Here are some examples:***
 
 <br>
+<br>
 
 **Generic**
 
@@ -209,6 +210,7 @@ you should with a separators width.
 ```
          
 </div>
+<br>
 <br>
 
 **Wavy**
@@ -221,6 +223,7 @@ you should with a separators width.
 
 </div>
 <br>
+<br>
 
 **With Lables**
 
@@ -232,6 +235,7 @@ you should with a separators width.
 
 </div>
 <br>
+<br>
 
 **Left Aligned + [Tortoise Brackets]**
 
@@ -242,6 +246,7 @@ you should with a separators width.
 ```
 
 </div>
+<br>
 <br>
 
 **Using [Box] Characters**
@@ -256,8 +261,9 @@ you should with a separators width.
 
 </div>
 <br>
+<br>
 
-**Classic `+`**
+**Classic `+`**
 
 <div align = 'center'>
 
@@ -268,6 +274,7 @@ you should with a separators width.
 ```
 
 </div>
+<br>
 
 
 <!----------------------------------------------------------------------------->
