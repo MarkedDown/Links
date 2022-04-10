@@ -5,13 +5,13 @@
          
 <br>
 
-**Markdown** links can be categorized into `Direct` & `Referenced` links.
+**Markdown** links can be categorized into `Raw` & `Referenced` links.
 
 </div>
          
 <br>
 
-#### Direct
+#### Raw
 
 Links of this type place the `URL` close to their declaration.
 
@@ -34,7 +34,7 @@ declaration which allows it to be placed wherever desired.
 
 <br>
 
-### Ｄｉｒｅｃｔ
+### Ｒａｗ
 
 ```md
 You are required to install the **Blinker** library
