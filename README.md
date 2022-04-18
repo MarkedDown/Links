@@ -36,7 +36,7 @@ declaration which allows it to be placed wherever desired.
 
 ### Ｒａｗ
 
-```md
+```markdown
 You are required to install the **Blinker** library
 from https://github.com/blinker-iot/blinker-library
 ```
@@ -47,7 +47,7 @@ from https://github.com/blinker-iot/blinker-library
 
 </div>
          
-```md
+```markdown
 You are required to install the **[Blinker](https://github.com/blinker-iot/blinker-library)** library.
 ```
 
@@ -55,7 +55,7 @@ You are required to install the **[Blinker](https://github.com/blinker-iot/blink
 
 ### Ｒｅｆｅｒｅｎｃｅｄ
 
-```md
+```markdown
 You are required to install the **[Blinker]** library.
 ```
 
@@ -65,7 +65,7 @@ You are required to install the **[Blinker]** library.
 
 </div>
 
-```md
+```markdown
 [Blinker]: https://github.com/blinker-iot/blinker-library
 ```
 
@@ -94,7 +94,7 @@ even contain any parameters, can be significantly tidied up
 
 <br>
 
-```md
+```markdown
 XYZ comes with a comprehensize **[API](https://organization.github.io/project/docs)** as well as <br>
 the ability to integrate with **[Moodle](https://moodle.org/)** / [Canvas](https://its.sdsu.edu/tools/canvas).
 ```
@@ -105,7 +105,7 @@ into 2 readable section, such as
 
 <br>
 
-```md
+```markdown
 Comes with a comprehensive **[API]** as well as <br>
 the ability to integrate with **[Moodle]** / **[Canvas]**.
 ```
@@ -116,7 +116,7 @@ the ability to integrate with **[Moodle]** / **[Canvas]**.
 
 </div>
 
-```md
+```markdown
 [Moodle]: https://moodle.org/
 [Canvas]: https://its.sdsu.edu/tools/canvas
 [API]: https://organization.github.io/project/docs
@@ -153,7 +153,7 @@ as otherwise you will have to traverse it every time you want ot edit the file.
 
 ### Example
 
-```md
+```markdown
 
 Thank you for reading till the end of this Readme.
 
@@ -205,7 +205,7 @@ you should with a separators width.
 
 <div align = 'center'>
 
-```md
+```markdown
 <!----------------------------------------------------------------------------->
 ```
          
@@ -217,7 +217,7 @@ you should with a separators width.
 
 <div align = 'center'>
 
-```md
+```markdown
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ```
 
@@ -229,7 +229,7 @@ you should with a separators width.
 
 <div align = 'center'>
 
-```md
+```markdown
 <!----------------------------------[ Badges ]--------------------------------->
 ```
 
@@ -241,7 +241,7 @@ you should with a separators width.
 
 <div align = 'center'>
 
-```md
+```markdown
 <!--⦗ Social Media ⦘----------------------------------------------------------->
 ```
 
@@ -253,7 +253,7 @@ you should with a separators width.
 
 <div align = 'center'>
 
-```md
+```markdown
 <!--╼━━┯━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓   
          │ Contributors │                                                   ┃   
          └──────────────┘                                                   ┖-->
@@ -267,7 +267,7 @@ you should with a separators width.
 
 <div align = 'center'>
 
-```md
+```markdown
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 <!--+                          Design Documentation                         +-->
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
