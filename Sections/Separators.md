@@ -25,10 +25,6 @@ readable text as well as for separators.
 ***Be Creative !***
 
 <br>
-
-### Examples
-
-<br>
 <br>
 
 #### Generic
