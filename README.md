@@ -44,12 +44,13 @@ from the place where they are used.
 </div>
 
 <br>
+<br>
 
 
 <!----------------------------------------------------------------------------->
 
-[Label Referenced]: https://img.shields.io/badge/Referenced-609926?style=for-the-badge
-[Label Raw]: https://img.shields.io/badge/Raw-A22430?style=for-the-badge
+[Label Referenced]: https://img.shields.io/badge/Ｒｅｆｅｒｅｎｃｅｄ-609926?style=for-the-badge
+[Label Raw]: https://img.shields.io/badge/Ｒａｗ-A22430?style=for-the-badge
 
 [#]: #
 

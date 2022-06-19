@@ -1,11 +1,16 @@
 
+<div align = center>
+
 # Examples
  
-</div>
-
+<br>
+<br>
 <br>
 
-### Ｒａｗ
+
+### [![Label Raw]][#]
+
+<br>
 
 ```markdown
 You are required to install the **Blinker** library
@@ -23,8 +28,12 @@ You are required to install the **[Blinker](https://github.com/blinker-iot/blink
 ```
 
 <br>
+<br>
+<br>
 
-### Ｒｅｆｅｒｅｎｃｅｄ
+### [![Label Referenced]][#]
+
+<br>
 
 ```markdown
 You are required to install the **[Blinker]** library.
@@ -40,6 +49,15 @@ You are required to install the **[Blinker]** library.
 [Blinker]: https://github.com/blinker-iot/blinker-library
 ```
 
-<div align = 'center'>
+</div>
 
 <br>
+<br>
+
+
+<!----------------------------------------------------------------------------->
+
+[Label Referenced]: https://img.shields.io/badge/Ｒｅｆｅｒｅｎｃｅｄ-609926?style=for-the-badge
+[Label Raw]: https://img.shields.io/badge/Ｒａｗ-A22430?style=for-the-badge
+
+[#]: #
