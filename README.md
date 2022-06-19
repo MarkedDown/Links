@@ -5,22 +5,23 @@
          
 <br>
 
-**Markdown** links can be categorized into `Raw` & `Referenced` links.
+***Markdown*** *links can be categorized into the following types:*
 
 </div>
          
 <br>
 
-#### Raw
+#### ![Label Raw]
 
-Links of this type place the `URL` close to their declaration.
+Links of this type place their <br>
+link close to it's declaration.
 
 <br>
 
-#### Referenced
+#### ![Label Referenced]
 
-With this type, the links' value can be decoupled from it's <br>
-declaration which allows it to be placed wherever desired.
+These links decouple their declaration <br>
+from the place where they are used.
 
 <br>
 <br>
@@ -278,6 +279,9 @@ you should with a separators width.
 
 
 <!----------------------------------------------------------------------------->
+
+[Label Referenced]: https://img.shields.io/badge/Referenced-0ABF53?style=for-the-badge
+[Label Raw]: https://img.shields.io/badge/Raw-EF2D5E?style=for-the-badge
 
 [Tortoise Brackets]: https://unicode-table.com/en/2997/
 [Box]: https://unicode-table.com/en/blocks/box-drawing/
