@@ -13,7 +13,7 @@
 #### ![Label Raw]
 
 Links of this type place their <br>
-link close to it's declaration.
+URL close to it's declaration.
 
 <br>
 
