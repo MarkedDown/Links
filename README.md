@@ -7,8 +7,7 @@
 
 ***Markdown*** *links can be categorized into the following types:*
 
-</div>
-         
+<br>
 <br>
 
 #### ![Label Raw]
@@ -28,9 +27,19 @@ from the place where they are used.
 <br>
 <br>
 
-<div align = 'center'>
+[![Button Examples]][Examples]
 
-[![Button Examples]][Examples]  ➜  [![Button Advice]][Advice]  ➜  [![Button Link Section]][Link Section]  ➜  [![Button Separators]][Separators]
+**🠗**
+
+[![Button Advice]][Advice]
+
+**🠗**
+
+[![Button Link Section]][Link Section]
+
+**🠗**
+
+[![Button Separators]][Separators]
 
 </div>
 
