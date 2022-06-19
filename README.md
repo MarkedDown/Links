@@ -51,7 +51,7 @@ from the place where they are used.
 [Label Referenced]: https://img.shields.io/badge/Referenced-609926?style=for-the-badge
 [Label Raw]: https://img.shields.io/badge/Raw-A22430?style=for-the-badge
 
-[#]: #
+[#]: .
 
 <!---------------------------------{ Sections }-------------------------------->
 
