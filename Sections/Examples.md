@@ -17,7 +17,7 @@ You are required to install the **Blinker** library
 from https://github.com/blinker-iot/blinker-library
 ```
 
-<div align = 'center'>
+<div align = center>
 
 **Or**
 
@@ -39,7 +39,7 @@ You are required to install the **[Blinker](https://github.com/blinker-iot/blink
 You are required to install the **[Blinker]** library.
 ```
 
-<div align = 'center'>
+<div align = center>
 
 **+**
 

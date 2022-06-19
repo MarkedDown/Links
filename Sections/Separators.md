@@ -1,85 +1,91 @@
 
 # Separators
- 
-</div>
 
-In the above example you saw a separator comment / line being used, <br>
-I'd recommend this to mark the start / end of such `Meta-Sections`.
-
-<br>
-
-### Width
-
-As in general, with human readble text, you will <br>
-want to stay in the `60 - 80` columns range, so <br>
-you should with a separators width.
-
-*Your editor of choice probably already* <br>
-*has a limit or line that indicates this limit.*
-
-<br>
-
-### Design
-
-<br>
-
-**Be creative!** <br>
-***Here are some examples:***
+If you create a link section it is good to <br>
+visually distinguish it with a separator <br>
+line in form of a comment. 
 
 <br>
 <br>
 
-**Generic**
+## Width
 
-<div align = 'center'>
+In general, you will want to stay in the <br>
+`60` to `80` columns range for human <br>
+readable text as well as for separators.
+
+*Most editors have settings to automatically* <br>
+*limit a lines length and visually indicate it.*
+
+<br>
+<br>
+
+## Design
+
+***Be Creative !***
+
+<br>
+
+### Examples
+
+<br>
+<br>
+
+#### Generic
+
+<div align = center>
 
 ```markdown
 <!----------------------------------------------------------------------------->
 ```
          
 </div>
+
 <br>
 <br>
 
-**Wavy**
+#### Wavy
 
-<div align = 'center'>
+<div align = center>
 
 ```markdown
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ```
 
 </div>
+
 <br>
 <br>
 
-**With Lables**
+#### With Labels
 
-<div align = 'center'>
+<div align = center>
 
 ```markdown
 <!----------------------------------[ Badges ]--------------------------------->
 ```
 
 </div>
+
 <br>
 <br>
 
-**Left Aligned + [Tortoise Brackets]**
+#### Left Aligned + [Tortoise Brackets]
 
-<div align = 'center'>
+<div align = center>
 
 ```markdown
 <!--⦗ Social Media ⦘----------------------------------------------------------->
 ```
 
 </div>
+
 <br>
 <br>
 
-**Using [Box] Characters**
+#### Using [Box] Characters
 
-<div align = 'center'>
+<div align = center>
 
 ```markdown
 <!--╼━━┯━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓   
@@ -88,12 +94,13 @@ you should with a separators width.
 ```
 
 </div>
+
 <br>
 <br>
 
-**Classic `+`**
+#### Classic `+`
 
-<div align = 'center'>
+<div align = center>
 
 ```markdown
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
@@ -103,6 +110,8 @@ you should with a separators width.
 
 </div>
 
+
+<br>
 <br>
 
 

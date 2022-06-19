@@ -33,7 +33,7 @@ Comes with a comprehensive **[API]** as well as <br>
 the ability to integrate with **[Moodle]** / **[Canvas]**.
 ```
 
-<div align = 'center'>
+<div align = center>
 
 **+**
 
