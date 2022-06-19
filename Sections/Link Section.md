@@ -75,4 +75,4 @@ You might also want to use different **[Separators]**.
 
 <!----------------------------------------------------------------------------->
 
-[Separators]: ./Separators%20.md
+[Separators]: ./Separators.md
