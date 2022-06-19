@@ -10,14 +10,14 @@
 <br>
 <br>
 
-#### ![Label Raw]
+#### [![Label Raw]][#]
 
 Links of this type place their <br>
 URL close to it's declaration.
 
 <br>
 
-#### ![Label Referenced]
+#### [![Label Referenced]][#]
 
 These links decouple their declaration <br>
 from the place where they are used.
@@ -51,13 +51,14 @@ from the place where they are used.
 [Label Referenced]: https://img.shields.io/badge/Referenced-609926?style=for-the-badge
 [Label Raw]: https://img.shields.io/badge/Raw-A22430?style=for-the-badge
 
+[#]: #
 
 <!---------------------------------{ Sections }-------------------------------->
 
-[Link Section]: Sections/Link%20Section.md
-[Separators]: Sections/Separators.md
-[Examples]: Sections/Examples.md
-[Advice]: Sections/Advice.md
+[Link Section]: Sections/Link%20Section.md 'Creating sections dedicated to links.'
+[Separators]: Sections/Separators.md 'A small list of separator examples.'
+[Examples]: Sections/Examples.md 'Examples of the link types.'
+[Advice]: Sections/Advice.md 'What this guide recommends.'
 
 
 <!---------------------------------{ Buttons }--------------------------------->
