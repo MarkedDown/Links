@@ -1,31 +1,30 @@
 
 # Advice
- 
-</div>
 
 <br>
 
-I would almost always ***`recommend to use Referenced Links`*** , <br>
-as they can move the clutter - that is their **URL** - into a dedicated<br>
-section and thus make your documentation more readable.
+It is usually recommendable to use `Referenced` links as <br>
+they can move the clutter - their **URL**s - into a dedicated <br>
+section and making your documentation more readable.
 
 <br>
+<br>
 
-##### Let Me Give You An Example
+## Example
 
-This not very readable example paragraph, whos links don't <br>
-even contain any parameters, can be significantly tidied up
+The following paragraph isn't very readable despite <br>
+the links not even containing any query parameters.
 
 <br>
 
 ```markdown
-XYZ comes with a comprehensize **[API](https://organization.github.io/project/docs)** as well as <br>
+XYZ comes with a comprehensive **[API](https://organization.github.io/project/docs)** as well as <br>
 the ability to integrate with **[Moodle](https://moodle.org/)** / [Canvas](https://its.sdsu.edu/tools/canvas).
 ```
 
 <br>
 
-into 2 readable section, such as
+***It can be turned into:***
 
 <br>
 
@@ -47,12 +46,17 @@ the ability to integrate with **[Moodle]** / **[Canvas]**.
 ```
 
 <br>
+<br>
 
-##### Where To Put The Links
+## Placement
 
 You may want to simply group your links into local collections <br>
-on a `Per-Paragraph` basis or instead have a `Link Section` .
-
-<div align = 'center'>
+on a `Per-Paragraph` basis or instead have a **[Link Section]**.
 
 <br>
+<br>
+
+
+<!----------------------------------------------------------------------------->
+
+[Link Section]: ./Link%20Section.md
