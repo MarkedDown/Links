@@ -79,20 +79,24 @@ readable text as well as for separators.
 <br>
 <br>
 
+<!-- 
+
 #### Using [Box] Characters
 
 <div align = center>
 
 ```markdown
-<!--╼━━┯━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓   
+\<!--╼━━┯━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓   
          │ Contributors │                                                   ┃   
-         └──────────────┘                                                   ┖-->
+         └──────────────┘                                                   ┖--\>
 ```
 
 </div>
 
 <br>
 <br>
+
+-->
 
 #### Classic `+`
 
