@@ -31,7 +31,7 @@ from the place where they are used.
 
 **🠗**
 
-[![Button Advice]][Advice]
+[![Button Anchors]][Anchors]      [![Button Advice]][Advice]                              
 
 **🠗**
 
@@ -59,6 +59,7 @@ from the place where they are used.
 [Link Section]: Sections/Link%20Section.md 'Creating sections dedicated to links.'
 [Separators]: Sections/Separators.md 'A small list of separator examples.'
 [Examples]: Sections/Examples.md 'Examples of the link types.'
+[Anchors]: Sections/Anchors.md 'How to place anchor links.'
 [Advice]: Sections/Advice.md 'What this guide recommends.'
 
 
@@ -67,6 +68,7 @@ from the place where they are used.
 [Button Link Section]: https://img.shields.io/badge/Link_Section-D77310?style=for-the-badge&logoColor=white&logo=ElasticStack
 [Button Separators]: https://img.shields.io/badge/Separators-0D597F?style=for-the-badge&logoColor=white&logo=Clyp
 [Button Examples]: https://img.shields.io/badge/Examples-006643?style=for-the-badge&logoColor=white&logo=CodeReview
+[Button Anchors]: https://img.shields.io/badge/⚓_Anchors-41454A?style=for-the-badge
 [Button Advice]: https://img.shields.io/badge/Advice-0E85CD?style=for-the-badge&logoColor=white&logo=GitHub
 
 
